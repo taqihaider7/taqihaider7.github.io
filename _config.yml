@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taqi Haider"
 title_separator          : "-"
 name                     : &name "Taqi Haider"
-description              : &description " Machine Learning, NLP"
+description              : &description "Prospective Master Student"
 url                      : https://taqihaider7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Taqi Haider"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile_pic.jpg"
+  bio              : "Machine Learning, NLP"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :   "taqihaider592@gmail.com"
+  email            :  "taqihaider592@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/taqi-haider/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  
+  youtube          :
   wikipedia        :
 
 
