@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 
+Education
 ======
 
 * Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021
