@@ -12,5 +12,6 @@ I am a Prospective Master student looking for research based position. My resear
 with an emphasis on Responsible AI.
 
 ## Publications
+
 - Advancements in Plant Disease Detection: A review of traditional and computer vision-based deep learning techniques. Submitted to **Sustainable Computing: Informatics and Systems**
 - AI and Personalization: The Role of Large Language Models in E-commerce Recommendation System. **In Writing Process**
