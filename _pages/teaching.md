@@ -7,11 +7,9 @@ redirect_from:
 ---
 
 
-
-Education
 ======
 
-* B.E. in Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021
+* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021
 
 Work Experience
 ======
