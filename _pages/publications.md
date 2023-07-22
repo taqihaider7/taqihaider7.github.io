@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+## Papers
+
+- Advancements in Plant Disease Detection: A review of traditional and computer vision-based deep learning techniques. Submitted to **Sustainable Computing: Informatics and Systems**
+- AI and Personalization: The Role of Large Language Models in E-commerce Recommendation System. **In Writing Process**
+- Rice Leaf Disease Detection using Vision Transformers. **In Writing Process**
