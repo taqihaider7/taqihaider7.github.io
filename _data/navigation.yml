@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Teaching"
+  - title: "Education & Experience"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -11,5 +11,5 @@ main:
         
   
   - title: "CV"
-    url: /files/CV-Taqi-Haider.pdf
+    url: /files/CV.pdf
     
