@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /experience/
+permalink: /edication/
 author_profile: true
 redirect_from:
   - /resume
