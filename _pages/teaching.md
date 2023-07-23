@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Education & Experience"
 permalink: /teaching/
 author_profile: true
 redirect_from:
