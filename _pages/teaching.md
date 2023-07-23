@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 
