@@ -1,6 +1,6 @@
 ---
 title: "Company Recommendation System"
-excerpt: "Developing ChatBot for Company Recommendation for Public Procurement <br/><img src='/images/companies_chatbot.png>"
+excerpt: "Developing ChatBot for Company Recommendation for Public Procurement<br/><img src='/images/companies_chatbot.png'>"
 collection: portfolio
 ---
 
