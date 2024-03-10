@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Prospective Master student looking for research based position. My research interests focuses on Machine Learning, Natural Language processing, Federated Learning, Generative AI, Information Reterival, Mulilingual Question-Answering.
+I am a Prospective Master student looking for research based position. My research interests focuses on Machine Learning, Natural Language processing, Generative AI, Large Language Models, Mulilingual Question-Answering.
 
 ## Publications
 
