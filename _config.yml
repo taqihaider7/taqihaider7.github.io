@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taqi Haider"
 title_separator          : "-"
 name                     : &name "Taqi Haider"
-description              : &description "Master Student at Novosibirsk State University Russia"
+description              : &description "Master's Student at Novosibirsk State University Russia"
 url                      : https://taqihaider7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taqi Haider"
   avatar           : "pic.png"
-  bio              : "Prospective Master Student"
+  bio              : "Master's Student at Novosibirsk State University Russia"
   location         : 
   employer         :
   pubmed           : 
