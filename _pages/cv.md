@@ -12,9 +12,16 @@ redirect_from:
 Education
 ======
 
-* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021
+Major | University | Duration
+---------|----------|---------
+ Bachelor of Electrical Enigneering | Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan | 2016 - 2020
+ A2 | B2 | C2
+ A3 | B3 | C3
+ 
 
-Work experience
+<!-- * Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021 -->
+
+Work Experience
 ======
 
 * Skills Camp [Youtube Channel](https://www.youtube.com/@skillscamp/featured): 2022-Present
