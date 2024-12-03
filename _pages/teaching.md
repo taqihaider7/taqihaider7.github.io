@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 
+* Master of Artificial Inteeligence and Big Data Analytics, Novosibirdsk State University, Russia 2026
 
-* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan Dec-2020
+* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2020
 
 ## Work Experience
 
