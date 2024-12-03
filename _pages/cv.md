@@ -12,14 +12,7 @@ redirect_from:
 Education
 ======
 
-Major | University | Duration
----------|----------|---------
- Bachelor of Electrical Enigneering | Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan | 2016 - 2020
- A2 | B2 | C2
- A3 | B3 | C3
- 
-
-<!-- * Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021 -->
+* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021 -->
 
 Work Experience
 ======
