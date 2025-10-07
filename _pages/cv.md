@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 
+* Master of Artificial Intelligence & Big Data Analysis, Novosibirsk State University, Russia 2026
+  
 * Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021 -->
 
 Work Experience
