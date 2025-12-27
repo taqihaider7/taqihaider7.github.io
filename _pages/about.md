@@ -12,6 +12,8 @@ I am a Master student of Artificial Intelligence and Big Data Analytics at Novos
 
 ## Publications
 
+
+- **Taqi Haider**, "MedSETNER: Medical Datasets Name recognition from Scientific Articles" _Work in Progress_
 - Dania Batool, **Taqi Haider**, Malik Ali Judge, Aisha Kanwal, Jackie Lohana, "From Fields to Algorithms: A Comprehensive Review of AI and Deep Learning Techniques for Plant Disease Detection" Submitted to _Computer Science Reviews_, 2024
 - Ishrat Fatima, **Taqi Haider**. "Public Procurement Recommendation System for Italian Contracts"
 _Work in Progress_
