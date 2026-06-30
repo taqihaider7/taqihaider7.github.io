@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Graduate of Artificial Intelligence and Big Data Analytics from Novosibirsk State University Russia adn Looking  for PhD Position in Machine Learning, Natural Language processing, Large Language Models, AI Safety And Alignment.
+I am a Master's Graduate of Artificial Intelligence and Big Data Analytics from Novosibirsk State University Russia and Looking for PhD Position in Machine Learning, Natural Language processing, Large Language Models, AI Safety And Alignment.
 
 ## Publications
 
