@@ -13,8 +13,9 @@ I am a Master's Graduate of Artificial Intelligence and Big Data Analytics from 
 ## Publications
 
 
-- **Taqi Haider**. "Medical Dataset Names Extraction from Research Papers." Accepted in _15th International Multiconference on “Bioinformatics of Genome Regulation and Structure/Systems Biology_. [BGRS/SB-2026](https://bgrssb.icgbio.ru/2026/en/)
-- Hussain, Nawazish, **Taqi Haider**. “BrainTumorClaims: A Dataset for Scientific Claim Detection and Structured Information Extraction in Brain Tumor Literature”. [Data Set], Novosibirsk State University, 2026. [DOI](https://doi.org/10.5281/zenodo.20364566)
-- Dania Batool, **Taqi Haider**, Malik Ali Judge, Aisha Kanwal, Jackie Lohana, "Artificial Intelligence for Plant Disease Detection: A Systematic Literature Review of Conventional and Advanced Methods," Under Review in _Artificial Intelligence Review_, 2026
+- **Taqi Haider**, Nawazish Hussain, Syed M., Evgeniy Pavlovskiy, "MedSETNER: A Benchmark Corpus for Extracting Dataset Names from Medical Scientific Literature." Accepted at _AIST 2026 Conference_.
+- Nawazish Hussain, **Taqi Haider**, Evgeniy Pavlovskiy, "ClaimGraph-BT: Automated Claim Extraction and Cross-Paper Comparison for Brain Tumor AI Literature." Accepted at _AIST 2026 Conference_.
+- Dania Batool, **Taqi Haider**, Malik Ali Judge, Aisha Kanwal, Jackie Lohana, "Artificial Intelligence for Plant Disease Detection: A Systematic Literature Review of Conventional and Advanced Methods." Under review in _Artificial Intelligence in Agriculture_, 2026.
+- Hussain, Nawazish, and **Taqi Haider**. "BrainTumorClaims: A Dataset for Scientific Claim Detection and Structured Information Extraction in Brain Tumor Literature." [Data Set], Novosibirsk State University, 2026. [DOI](https://doi.org/10.5281/zenodo.20364566)
+- **Taqi Haider**. "Automatic Extraction of Medical Dataset Names from Research Papers." Accepted at the _15th International Multiconference on Bioinformatics of Genome Regulation and Structure/Systems Biology_. [BGRS/SB-2026](https://bgrssb.icgbio.ru/2026/en/)
 - **Taqi Haider**, Anna Latushko, Julia Mazine, "CivilNER: Task, Method and Dataset Mention Extraction from Civil Engineering Research Articles." _Work in Progress_
-- Sergio Cannata, **Taqi Haider**, "Rice Leaf Disease Detection using Vision Transformers" _Work in Progress_
