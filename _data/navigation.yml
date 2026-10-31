@@ -12,4 +12,7 @@ main:
   
   - title: "CV"
     url: /files/CV.pdf
+
+  - title: "Contact"
+    url: mailto:taqihaider592@gmail.com
     

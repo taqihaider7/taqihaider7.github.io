@@ -1,11 +1,19 @@
 ---
 title: "Ask QuranGPT"
-excerpt: "Multilingual ChatBot for Answering Question over Quran using OpenAI’s GPT-3 <br/><img src='/images/ask_quran.jpg'>"
+excerpt: "A multilingual question-answering app for exploring the Quran."
 collection: portfolio
+order: 5
+category: "Applied NLP"
+outcome: "Cohere Hackathon · 1st place"
+image_alt: "Diagram of the Ask Quran question-answering pipeline"
+header:
+  teaser: "ask_quran.jpg"
 ---
 
-This Chatbot was developed during [Cohere Hackathon](https://lablab.ai/event/cohere-hackathon/menlo-park-lab/ask-quran) organized by [lablab.ai](lablab.ai). The goal of this project was to build a multilingual chatbot that can answer questions about the Quran. The chatbot is built using OpenAI’s LLM -> GPT-3 for response generation and Cohere’s LLM -> multilingual model for embeddings and Pinecone vector database for storing the embeddings of Quran.
+## Project
 
-User can query in 100+ Languages and get answer in 100+ languages.
+Built for the [Cohere Hackathon](https://lablab.ai/event/cohere-hackathon/menlo-park-lab/ask-quran), this app answers questions about the Quran in multiple languages. It uses Cohere multilingual embeddings for retrieval, Pinecone for storage, and an OpenAI language model for responses.
 
-* App can accessed from [here](https://askquranai.vercel.app/)
+## Outcome and link
+
+The project won first place at the hackathon. [View the app page](https://askquranai.vercel.app/).

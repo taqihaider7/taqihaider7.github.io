@@ -1,0 +1,17 @@
+{% assign project = include.post %}
+<article class="portfolio-card">
+  <a class="portfolio-card__media{% unless project.header.teaser %} portfolio-card__media--type{% endunless %}" href="{{ project.url | relative_url }}" aria-label="Read about {{ project.title | escape }}">
+    {% if project.header.teaser %}
+      <img src="{{ project.header.teaser | prepend: '/images/' | relative_url }}" alt="{{ project.image_alt | escape }}" loading="lazy">
+    {% else %}
+      <span aria-hidden="true">{{ project.category }}</span>
+    {% endif %}
+  </a>
+  <div class="portfolio-card__body">
+    <p class="portfolio-eyebrow">{{ project.category }}</p>
+    <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+    <p>{{ project.excerpt }}</p>
+    <p class="portfolio-card__outcome">{{ project.outcome }}</p>
+    <a class="portfolio-card__link" href="{{ project.url | relative_url }}">Project details &rarr;</a>
+  </div>
+</article>
