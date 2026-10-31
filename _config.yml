@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Taqi Haider"
 title_separator          : "-"
 name                     : &name "Taqi Haider"
-description              : &description "Master's Student at Novosibirsk State University, Russia"
+description              : &description "AI researcher working on scientific information extraction, NLP, and applied machine learning"
 url                      : https://taqihaider7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "taqihaider7/taqihaider7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taqi Haider"
   avatar           : "profile-pic.jpg"
-  bio              : "Master's Student at Novosibirsk State University Russia"
+  bio              : "AI researcher | NLP and applied machine learning"
   location         : 
   employer         :
   pubmed           : 
