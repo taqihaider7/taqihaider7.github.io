@@ -11,7 +11,7 @@ This repository contains my academic portfolio, built from the [al-folio v1 star
 - `_data/socials.yml`: contact and social links
 - `files/CV.pdf`: downloadable CV
 
-The previous AcademicPages source is retained in the `portfolio-research-refresh` branch. Local copies of those files are in `legacy-academicpages/`, which is ignored by Git and excluded from the Jekyll build.
+The previous AcademicPages source remains available in Git history before the al-folio migration. Local copies of those files are in `legacy-academicpages/`, which is ignored by Git and excluded from the Jekyll build.
 
 ## Local checks
 
