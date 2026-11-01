@@ -29,4 +29,4 @@ The al-folio upstream audit example uses `--baseurl /al-folio` for its project s
 
 ## Publishing
 
-The included `.github/workflows/deploy.yml` builds the site after a push to `master` or `main` and publishes the output to `gh-pages`. In GitHub repository settings, grant Actions read and write permissions, then set Pages to deploy from the `gh-pages` branch at `/`. Review the site on this branch before merging it into the publishing branch.
+The included `.github/workflows/deploy.yml` builds the site on pull requests and after a push to `master`. Only a build from `master` deploys to GitHub Pages. In repository Settings → Pages, set the publishing source to GitHub Actions. Use `al-folio-rebuild` for testing and new features, then merge verified changes into `master` to publish them.
