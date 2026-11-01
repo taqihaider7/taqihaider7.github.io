@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Flight Delay Predictor illustration</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#344662"/>
+      <stop offset="1" stop-color="#6d91a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#background)"/>
+  <path d="M200 445c180-200 390-280 805-160" fill="none" stroke="#dce9ef" stroke-width="17" stroke-dasharray="32 26" opacity=".8"/>
+  <path d="m880 240 145 20-98 115-6-85z" fill="#e8c46a"/>
+  <circle cx="235" cy="415" r="29" fill="#e8c46a"/>
+  <text x="120" y="625" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Flight Delay Predictor</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">MedSETNER research illustration</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0f3040"/>
+      <stop offset="1" stop-color="#235e69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#background)"/>
+  <rect x="120" y="120" width="960" height="435" rx="28" fill="#ffffff" opacity=".1"/>
+  <path d="M220 225h760M220 300h590M220 375h720M220 450h530" stroke="#e1f6ef" stroke-width="26" stroke-linecap="round" opacity=".7"/>
+  <rect x="405" y="280" width="280" height="42" rx="14" fill="#e8c46a"/>
+  <rect x="720" y="355" width="230" height="42" rx="14" fill="#e8c46a"/>
+  <text x="120" y="625" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">MedSETNER</text>
+</svg>

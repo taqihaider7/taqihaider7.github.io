@@ -1,23 +1,12 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: CV
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+description: Download Taqi Haider's curriculum vitae.
+nav: true
+nav_order: 5
 ---
 
-{% include base_path %}
+[Download my CV (PDF)](/files/CV.pdf)
 
-Education
-======
-
-* Master of Artificial Intelligence & Big Data Analysis, Novosibirsk State University, Russia 2026
-  
-* Bachelor of Electrical Enigneering, Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, Pakistan 2021 -->
-
-Work Experience
-======
-
-* Skills Camp [Youtube Channel](https://www.youtube.com/@skillscamp/featured): 2022-Present
-  * Create Data Science & Machine Learning Content
+For a shorter overview, see [Experience](/teaching/), [Publications](/publications/), and [Projects](/projects/).
