@@ -7,7 +7,7 @@ subtitle: AI researcher in scientific information extraction and applied machine
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Novosibirsk State University</p>
 

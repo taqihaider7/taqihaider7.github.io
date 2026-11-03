@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Accepted papers, a dataset, and current research manuscripts.
 nav: true
 nav_order: 2
