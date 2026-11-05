@@ -2,7 +2,7 @@
 layout: page
 title: MedSETNER
 description: Medical dataset-name extraction from scientific literature.
-img: assets/img/medsetner.svg
+img: assets/img/medsetner-pipeline-workflow.png
 importance: 1
 category: research
 permalink: /portfolio/medsetner/
