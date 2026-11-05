@@ -2,14 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI researcher in scientific information extraction and applied machine learning
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
-    <p>Novosibirsk State University</p>
 
 selected_papers: true
 social: true
