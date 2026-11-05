@@ -18,9 +18,9 @@ latest_posts:
   enabled: false
 ---
 
-I am an AI researcher and a graduate of the Master's program in Artificial Intelligence and Big Data Analytics at **Novosibirsk State University**. I work on extracting and comparing evidence from scientific literature and on practical machine learning tools. I am seeking **PhD opportunities** in NLP and related areas of AI.
+I am graduate of the Master's in Artificial Intelligence and Big Data Analytics at **Novosibirsk State University**, Advised by Evgeniy Pavlovskiy. overall I am interested in Applications of Deep Learning and LLMs in language processing, Medical domain. I also have worked on extracting and comparing evidence from scientific literature and on practical machine learning tools. I am seeking **PhD opportunities** in NLP, LLMs behavior, and related areas of AI.
 
-My master's research led to **MedSETNER**, a benchmark built from 691 medical research articles with 9,376 annotated dataset-name mentions. In **ClaimGraph-BT**, I trained context-aware claim detectors for brain tumor AI literature; PubMedBERT Context reached 0.8391 macro F1 on manually verified test data. I also build applied NLP systems, including multilingual question answering and customer support tools.
+My master's research led to **MedSETNER**, a benchmark built from 691 medical research articles with 9,376 annotated dataset-name mentions. In **ClaimGraph-BT**, I trained context-aware claim detectors for brain tumor AI literature **(AISTA 2026)**.
 
 [Explore my projects](/projects/) · [Read about my experience](/teaching/) · [Download my CV](/files/CV.pdf)
 
