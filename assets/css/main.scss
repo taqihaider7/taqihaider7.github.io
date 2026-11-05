@@ -56,3 +56,8 @@ html[data-theme="dark"] {
 .projects h2.category {
   color: var(--global-text-color);
 }
+
+.projects .card-title,
+.projects .card-text {
+  overflow-wrap: anywhere;
+}
